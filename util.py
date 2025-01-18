@@ -1,6 +1,5 @@
 user_name=input("Enter your name")
-
-print("Hallo")
+print("Hallo"+ user_name)
 
 number = input("enter your number")
 print(number)
